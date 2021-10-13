@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-// <<<< EXEMPLE 1 >>>>
+// <<<< EXAMPLE 1 >>>>
 /* 
 // Be sure to include shdiopp.h after a gl declaration header, such as glew!
 #include <GL/glew.h>
@@ -43,7 +43,7 @@ int main()
 }
 */
 
-// <<<< EXEMPLE 2 >>>>
+// <<<< EXAMPLE 2 >>>>
 /* 
 // Be sure to include shdiopp.h after a gl declaration header, such as glew!
 #include <GL/glew.h>
