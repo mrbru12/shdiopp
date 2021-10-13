@@ -81,7 +81,9 @@ namespace shdiopp
     
     public:
         static Program loadRaw(const char* vertexSrc, const char* fragmentSrc);
+        // TODO: static Program loadRaw(const char* vertexSrc, const char* geometrySrc, const char* fragmentSrc);
         static Program loadFile(const char* vertexPath, const char* fragmentPath);
+        // TODO: static Program loadFile(const char* vertexSrc, const char* geometryPath, const char* fragmentSrc);
         GLuint getId();
 
     private:
